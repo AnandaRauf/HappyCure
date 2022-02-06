@@ -1,5 +1,7 @@
 HappyCure
 
+![Wallpaper Program](https://raw.githubusercontent.com/AnandaRauf/HappyCure/main/logo%20happy%20cure.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HappyCure is android app health care. 
