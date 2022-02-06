@@ -3,16 +3,9 @@ Comingsoon open source.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 HappyCure is android app health care. 
-A Second project GDSC Challenge Solution.
-Developed using Flutter.
 Version: 1.0.0 (Closed Source).
-Copyright by: 
-Tech Futuristic team GDSC:
-
-- Ananda Rauf Maududi(Leader).
--  Hars Sharma.
--  Arunima Chatterjee.
--  Mouna Aneddame.
+Developed by Ananda Rauf Maududi
+Developed date: 04 - 05 February 2022
 
 How to install apk?:
 - Android min Nougat max Oreo.
