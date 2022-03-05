@@ -14,6 +14,7 @@ Developed by Ananda Rauf Maududi
 
 Developed date: 04 - 05 February 2022
 
+[Download APK](https://github.com/AnandaRauf/HappyCure/releases/tag/1.0.0)
 How to install apk?:
 - Android min Nougat max Oreo.
 - Setting > Permission App.
